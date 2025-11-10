@@ -1,2 +1,2 @@
-# Data-Analyst
-Contains data analyst projects that I worked on
+# Analisis Peramalan Data Produksi Padi Menggunakan Metode SARIMA Berbasis Python
+Dimana ini merupakan tugas projeck universitas, menggunakan Google Collab.
